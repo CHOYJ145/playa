@@ -1,0 +1,3 @@
+<?= snippet('header') ?>
+
+<?= snippet('footer') ?>
